@@ -24,4 +24,3 @@ Git / GitHub · Docker · MySQL · MongoDB · Maven · n8n · OpenAI API
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-thibaut-lazaro/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:q.thibaut.lazaro96@gmail.com)
